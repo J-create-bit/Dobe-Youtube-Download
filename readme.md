@@ -18,7 +18,7 @@ To make this project you need to install some python packages on a terminal with
   pip install pytube 
   pip install tkinter 
   pip install os-sys 
-  pip install pytube
+  pip install pathlib 
 ```
 
 ## Authors
